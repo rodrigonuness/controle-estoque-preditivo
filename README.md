@@ -51,4 +51,4 @@ Padrões de projeto aplicados:
 ### Passos
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/controle-estoque-inteligente.git
+git clone https://github.com/rodrigonuness/controle-estoque-inteligente.git
