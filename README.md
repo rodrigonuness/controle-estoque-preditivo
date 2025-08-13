@@ -21,7 +21,7 @@ O sistema permite gerenciar entradas e saídas de produtos, calcular **pontos de
 ## 🛠 Tecnologias Utilizadas
 - **Backend:** Java, Spring Boot, Spring Data JPA
 - **Frontend:** Angular
-- **Banco de Dados:** PostgreSQL
+- **Banco de Dados:** MySQL
 - **Testes:** JUnit 5, Cucumber (BDD)
 - **Outros:** Docker Compose, Context Mapper, Flyway
 
